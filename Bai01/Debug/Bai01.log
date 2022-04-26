@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  QuanLy.cpp
+E:\OOP\GK_OOP4_N1\20120097\Bai01\QuanLy.cpp(11,23): warning C4018: '<': signed/unsigned mismatch
+E:\OOP\GK_OOP4_N1\20120097\Bai01\QuanLy.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+E:\OOP\GK_OOP4_N1\20120097\Bai01\QuanLy.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Bai01.vcxproj -> E:\OOP\GK_OOP4_N1\20120097\Debug\Bai01.exe
